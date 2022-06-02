@@ -1,0 +1,6 @@
+
+Link to reddit sarcasm data
+https://nlp.cs.princeton.edu/SARC/0.0/
+
+contains comments with labeled sarcasm
+
