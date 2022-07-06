@@ -1,4 +1,4 @@
-To run this app:
+To run this app, open an anaconda cmd terminal if on windows:
 1. Paste the following:
     cd PycharmProjects/mec-mini-projects/flask_deploy
     set FLASK_APP=flask_deploy/request_rfr
